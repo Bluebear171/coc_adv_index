@@ -13,4 +13,4 @@
 |[塞拉斯的书](https://goo.gl/uc6CuN)|Mervyn Boyd|Redsep|
 |[拯救遺跡](https://goo.gl/XYC7n1)|blockus|-|
 |[眠山](https://goo.gl/wDvZ1s)|栖雁|-|
-|[噩夢之石]()|魔都||
+|[噩夢之石](https://goo.gl/r0oiaa)|魔都|-|
