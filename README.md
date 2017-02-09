@@ -14,3 +14,18 @@
 |[拯救遺跡](https://goo.gl/XYC7n1)|blockus|-|
 |[眠山](https://goo.gl/wDvZ1s)|栖雁|-|
 |[噩夢之石](https://goo.gl/r0oiaa)|魔都|-|
+|[化石](https://goo.gl/lMd5Qp)|The Chaosium|-|
+|[黃衣之王](https://goo.gl/9dm1Xl)|-|-|
+|[機械之王](https://goo.gl/E3nuuv)|Geoff Gaillan & Dean Engelhardt|阿尔克赛尔罗斯|
+|[人間樂土](https://goo.gl/vn9DAw)|Lucya Szachnowski and Gary O's Connell|琳尼娜|
+|[褴褛王](https://goo.gl/8BL2hF)|Hustin Hynes|琳尼娜|
+
+##日系模組目錄[中] Japanese Theme Index##
+|模組名稱 |原作|翻譯/改編|
+|---|---|---|
+|[日本任意城市](https://goo.gl/ZyeD5K)|ma34|葬式之钟|
+
+
+##日文模組目錄 Japanese Advendutre Index
+
+##英文模組目錄 English AdventureIndex
