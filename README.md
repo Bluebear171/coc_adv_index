@@ -56,7 +56,7 @@
 |[終末測驗](https://goo.gl/AiIDUh)|しんやEX|蒼葉|
 |[刺猬](https://goo.gl/oVy4bg)|Enbos|艾德琳|
 |[流星](https://goo.gl/6qnk2t)|失戀的奈亞拉托提普|-|
-|[行走在黑暗中人們的宴會](https://goo.gl/AOKRV5)|久海夏辉|Nikki（NK）|
+|[行走在黑暗中人們的宴會](https://goo.gl/AOKRV5)|久海夏辉|Nikki(NK)|
 |[達摩車站](https://goo.gl/attjKi)|コップ袋|燦|
 |[可憐可愛的笨蛋們](https://goo.gl/1v64Bd)|阿缅|-|
 
