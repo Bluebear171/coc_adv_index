@@ -35,10 +35,12 @@
 |[洛兹德拉](https://goo.gl/qv60x3)|Michael C. LaBossiere|-|
 |[洛城無寧日](https://goo.gl/bDBxnw)|-|烧饼·尼古拉斯|
 |[涠洲岛系列第一部](https://goo.gl/hqCojT)|北木|-|
-
+|[休息站](https://goo.gl/ChCmNB)|Michael C. LaBossiere|j456789a|
+|[四號走廊，淨空！](https://goo.gl/gFVAk0)|Michael C. LaBossiere|j456789a|
+|[瘋狂的男人](https://goo.gl/oRGoeE)|Mark Harmon|Ameniz|
 
 ##日系模組目錄[中] Japanese Theme Index##
-|模組名稱 |原作|翻譯/改編|
+|模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
 |[谁是沼泽人](https://goo.gl/ZyeD5K)|ma34|葬式之钟|
 |[『克蘇魯神話TRPG』現代日本劇本「通過吧」](https://goo.gl/3YJGBW)|O-kuma|饅頭|
@@ -47,21 +49,25 @@
 |[浸染灰色的街道](https://goo.gl/1ZkvBk)|aak|青蛙君 [來源:クトゥルフ神話TRPGやろうず](https://goo.gl/bUpNR3)|
 |[某日，撿到了不詳的孩子](https://goo.gl/3UBPJK)|[鷹](https://goo.gl/N66FQA)|蒼葉|
 |[告別終曲](https://goo.gl/vTvpso)|[海からのシ者](https://goo.gl/VqkVZ8)|蒼葉，白鸟栞|
-|[午夜殉死](https://goo.gl/qgTp6m)|キャラメル(https://goo.gl/NAdzOC)|蒼葉|
+|[午夜殉死](https://goo.gl/qgTp6m)|[キャラメル](https://goo.gl/NAdzOC)|蒼葉|
 |[奇妙的動物園](https://goo.gl/01SUyk)|[雨森](https://goo.gl/kdr9Ry)|蒼葉|
 |[活不下去了](https://goo.gl/2SZyQt)|[おかのゆこ](https://goo.gl/cH0v3d)|蒼葉|
 |[猿夢](https://goo.gl/Cm59OL)|[桜](https://goo.gl/8lwUMB)|蒼葉|
-|[終末測驗]()|しんやEX|蒼葉|
-|[刺猬]()|Enbos|艾德琳|
-|[流星]()|失戀的奈亞拉托提普|-|
-|[行走在黑暗中人們的宴會]()|久海夏辉|Nikki（NK）|
-|[達摩車站]()|コップ袋|燦|
-|[可憐可愛的笨蛋們]()|阿缅|-|
+|[終末測驗](https://goo.gl/AiIDUh)|しんやEX|蒼葉|
+|[刺猬](https://goo.gl/oVy4bg)|Enbos|艾德琳|
+|[流星](https://goo.gl/6qnk2t)|失戀的奈亞拉托提普|-|
+|[行走在黑暗中人們的宴會](https://goo.gl/AOKRV5)|久海夏辉|Nikki（NK）|
+|[達摩車站](https://goo.gl/attjKi)|コップ袋|燦|
+|[可憐可愛的笨蛋們](https://goo.gl/1v64Bd)|阿缅|-|
 
 ##日文模組目錄 Japanese Advendutre Index
-|模組名稱 |原作|翻譯/改編|
+|模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
 |[次元トンネル(City版)](https://goo.gl/ChXovS)|PandA|-|
 |[親愛する錬金術師](https://goo.gl/h6trKQ)|雷柱|-|
+|[Lucky Color]()(https://goo.gl/3pS495|あにー|_|
 
 ##英文模組目錄 English AdventureIndex
+|模組名稱 |原作|翻譯/改編/特別注意|
+|---|---|---|
+|[Clean Up,Aisle four!](https://goo.gl/0uPaCz)|Michael C. LaBossiere|適合新人玩|
