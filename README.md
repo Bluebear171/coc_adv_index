@@ -1,5 +1,5 @@
 ##克苏鲁的呼唤(Call of Cthulhu)##
-以下所收錄的模組都是版權所有，歡迎COC愛好者用來玩遊戲。另外部分模組為原創模組，未經作者同意，任何人都不得將其用於商業用途，否則該原作者將保留法律追究的權利。
+以下所收錄的模組都是版權所有，歡迎COC愛好者用來玩遊戲。另外部分模組為原創模組，未經作者同意，任何人都不得將其用於商業用途，否則該原作者將保留法律追究的權利。有一些還沒找到作者的會在以後補上^-^
 
 ##中文/漢化模組目錄Index##
 |模組名稱 |原作|翻譯/改編/特別注意|
@@ -32,12 +32,28 @@
 |[倫敦風雲](https://goo.gl/GOLNSE)|子非狐_L|-|
 |[不要看Don't Watch](https://goo.gl/qUS80L)|邪教主★啊夜Saya|純蘋果有Google Drive DL Link|
 |[永生之酒](https://goo.gl/GJmF0N)|叨叨|-|
-|[洛兹德拉](https://goo.gl/qv60x3)|Michael C. LaBossiere|-|
+|[洛兹德拉](https://goo.gl/qv60x3)|Dr Michael C. LaBossiere|-|
 |[洛城無寧日](https://goo.gl/bDBxnw)|-|烧饼·尼古拉斯|
 |[涠洲岛系列第一部](https://goo.gl/hqCojT)|北木|-|
-|[休息站](https://goo.gl/ChCmNB)|Michael C. LaBossiere|j456789a|
-|[四號走廊，淨空！](https://goo.gl/gFVAk0)|Michael C. LaBossiere|j456789a|
+|[休息站](https://goo.gl/ChCmNB)|Dr Michael C. LaBossiere|j456789a|
+|[四號走廊，淨空！](https://goo.gl/gFVAk0)|Dr Michael C. LaBossiere|j456789a|
 |[瘋狂的男人](https://goo.gl/oRGoeE)|Mark Harmon|Ameniz|
+|[匕首](https://goo.gl/nzOc4n)|Dr Michael C. LaBossiere|-|
+|[Calling](https://goo.gl/G7F0fb)|-|-|
+|[Duang](https://goo.gl/I3mgc3)|CTL研究所|-|
+|[只為了再見一面](https://goo.gl/LMB1qg)|沙耶唯一本命|-|
+|[屠路](https://goo.gl/Qg37hV)|The Unspeakable Oath|Alfredleo|
+|[VR體驗館](https://goo.gl/y1ZJwn)|baby♂metal|-|
+|[詛咒](https://goo.gl/RTZFz0)|Tony Hickie|-|
+|[23號休息站 alternity](https://goo.gl/3ymeGe)|-|-|
+|[今天的電梯](https://goo.gl/c4yYsH)|-|-|
+|[冰冷的收穫](https://goo.gl/RG2j4d)|Chad J. Bowse|琳尼娜| 
+|[兇宅](https://goo.gl/ZWJlm0)|-|-|
+|[請問你有聽過安利嗎](https://goo.gl/BJ1qJm)|悠子|-|
+|[複足](https://goo.gl/89Xh0J)|Jim Phillips|DB|
+|[摩洛哥之詭秘](https://goo.gl/yjm87y)|William Jones|任性的龍蝦酒館|
+|[不可言狀的恐懼-月之子](https://goo.gl/32hnNO)|Paul Ficker|牛克思大叔|
+
 
 ##日系模組目錄[中] Japanese Theme Index##
 |模組名稱 |原作|翻譯/改編/特別注意|
@@ -59,15 +75,20 @@
 |[行走在黑暗中人們的宴會](https://goo.gl/AOKRV5)|久海夏辉|Nikki(NK)|
 |[達摩車站](https://goo.gl/attjKi)|コップ袋|燦|
 |[可憐可愛的笨蛋們](https://goo.gl/1v64Bd)|阿缅|-|
+|[Hello Vita](https://goo.gl/muXSQm)|黑江|ん|
+|[奇妙的共鬥](https://goo.gl/QZFZ6P)|-|-|
+|[常暗之廂](https://goo.gl/G9GvjN)|86式|燦|
+|[星空莊怪異譚](https://goo.gl/u7KLzQ)|ホリ|牛奶醬油|
 
 ##日文模組目錄 Japanese Advendutre Index
 |模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
 |[次元トンネル(City版)](https://goo.gl/ChXovS)|PandA|-|
 |[親愛する錬金術師](https://goo.gl/h6trKQ)|雷柱|-|
-|[Lucky Color]()(https://goo.gl/3pS495|あにー|_|
+|[Lucky Color](https://goo.gl/3pS495)|あにー|-|
 
 ##英文模組目錄 English AdventureIndex
 |模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
 |[Clean Up,Aisle four!](https://goo.gl/0uPaCz)|Michael C. LaBossiere|適合新人玩|
+|[The Cursed](https://goo.gl/ziJF6i)|Tony Hickie|-|
