@@ -4,7 +4,7 @@
 ##中文/漢化模組目錄Index##
 |模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
-|[黑暗洞窟](https://goo.gl/6hOX1v)|Marian|-|
+|[黑暗洞窟](https://goo.gl/GIdvP1)|Marian|-|
 |[一夢千年](https://goo.gl/v3QyTc)|Sunnylht|Zetetic|
 |[我的朋友很少](https://goo.gl/59dnck)|栖雁|-|
 |[憂鬱詭屋](https://goo.gl/qG6PtC)|瑪莉安|-| 
@@ -17,7 +17,7 @@
 |[海明威偵探社2-樹之影](https://goo.gl/4Bc7bn)|Jonathan Stout|-|
 |[海明威偵探社3-噩夢之石](https://goo.gl/r0oiaa)|Jonathan Stout|-|
 |[化石](https://goo.gl/lMd5Qp)|The Chaosium|-|
-|[黃衣之王](https://goo.gl/9dm1Xl)|-|-|
+|[黃衣之王](https://goo.gl/s4OiIH)|Kevin A.Ross|Clare|
 |[機械之王](https://goo.gl/E3nuuv)|Geoff Gaillan & Dean Engelhardt|阿尔克赛尔罗斯|
 |[人間樂土](https://goo.gl/vn9DAw)|Lucya Szachnowski and Gary O's Connell|琳尼娜|
 |[褴褛王](https://goo.gl/8BL2hF)|Hustin Hynes|琳尼娜|
@@ -53,13 +53,32 @@
 |[複足](https://goo.gl/89Xh0J)|Jim Phillips|DB|
 |[摩洛哥之詭秘](https://goo.gl/yjm87y)|William Jones|任性的龍蝦酒館|
 |[不可言狀的恐懼-月之子](https://goo.gl/32hnNO)|Paul Ficker|牛克思大叔|
-
+|[死屋](https://goo.gl/IU0QEC)|-|-|
+|[溫泉危機](https://goo.gl/XYy47e)|鴨嘴獸Yabaso|-|
+|[終焉之詩](https://goo.gl/IPeJks)|-|中出島潔人|
+|[賭局](https://goo.gl/02LZDI)|-|-|
+|[遺留的寶貝-現代](https://goo.gl/Bi6YZS)|-|-|
+|[醫院](https://goo.gl/5Zxms2)|佩佩|-|
+|[愛的孤兒-改版](https://goo.gl/omiD9B)|曉|-|
+|[血之詛咒](https://goo.gl/5uWR5Y)|Sam Shirly|Nikki|
+|[魔鏡怪談](https://goo.gl/XDTxkr)|迪恩·沙瑪什|牛克思大叔|
+|[粘液之跡](https://goo.gl/lVfzWG)|-|天殘無心|
+|[死光](https://goo.gl/QVz994)|-|-|
+|[迷失世紀](https://goo.gl/iY1P5l)|Mike Mason|清水|
+|[SCP](https://goo.gl/rlFSC5)|蒼葉|-|
+|[蒂莫西舅舅的遺產](https://goo.gl/ny4418)|Keith Herber|Hello World|
+|[極北之光]()|-|-|
+|[來自星星的光芒]()|-|-|
+|[命運之母]()|-|-|
+|[鴿人]()|-|-|
+|[噩夢暑期]()|-|-|
+|[奉家山]()|||
 
 ##日系模組目錄[中] Japanese Theme Index##
 |模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
 |[谁是沼泽人](https://goo.gl/ZyeD5K)|ma34|葬式之钟|
-|[『克蘇魯神話TRPG』現代日本劇本「通過吧」](https://goo.gl/3YJGBW)|O-kuma|饅頭|
+|[通過吧](https://goo.gl/3YJGBW)|O-kuma|饅頭|
 |[無盡食慾](https://goo.gl/pCcJgx)|内山靖二郎|艾德琳
 |[神赦医院](https://goo.gl/V66H9l)|マリコロ(Cthulhu Scenario Okiba)|葬式之钟|
 |[浸染灰色的街道](https://goo.gl/1ZkvBk)|aak|青蛙君 [來源:クトゥルフ神話TRPGやろうず](https://goo.gl/bUpNR3)|
@@ -79,6 +98,25 @@
 |[奇妙的共鬥](https://goo.gl/QZFZ6P)|-|-|
 |[常暗之廂](https://goo.gl/G9GvjN)|86式|燦|
 |[星空莊怪異譚](https://goo.gl/u7KLzQ)|ホリ|牛奶醬油|
+|[毒湯](https://goo.gl/upiBG1)|-|西螺醬油|
+|[睡美人事件簿](https://goo.gl/qz0bKF)|ホリ|牛奶醬油|
+|[祭上你的生命吧](https://goo.gl/MIV1mS)|あさい|失戀的奈亞拉托提普|
+|[誰是說謊者](https://goo.gl/vmjp55)|ミヤモリ|曉|
+|[鐵道盡頭](https://goo.gl/AkNY78)|ホリ|牛奶醬油|
+|[心軋之時](https://goo.gl/Gx7lBR)|優希|牛奶醬油|
+|[古鐘所繫之物](https://goo.gl/gibNZn)|ぷぷぷ|牛奶醬油| 
+|[霧風](https://goo.gl/hCCesU)|深海八爪喵|-|
+|[何處是現實](https://goo.gl/0zT1fP)|朝雾カフカ|Zetetic|
+|[游戏脑](https://goo.gl/5yEg7K)|ヒスイ|-|
+|[廢棄洋館]()|-|-|
+|[死亡銘刻]()|內山靖二郎|艾德琳|
+|[詛咒之音]()|-|-|
+|[午夜吞食者]()|のざらし|-|
+|[只有你不在的世界]()|失戀的奈亞拉托提普|-|
+|[天神中學的人魚]()|Tachikoma|-|
+|[卡裡普索島]()|黑江|青蛙君|
+|[奈亞的新娘]()|774|-|
+|[孤獨之櫻]()|marikoro_dayo|小春日和|
 
 ##日文模組目錄 Japanese Advendutre Index
 |模組名稱 |原作|翻譯/改編/特別注意|
@@ -87,7 +125,7 @@
 |[親愛する錬金術師](https://goo.gl/h6trKQ)|雷柱|-|
 |[Lucky Color](https://goo.gl/3pS495)|あにー|-|
 
-##英文模組目錄 English AdventureIndex
+##英文模組目錄 English Adventure Index
 |模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
 |[Clean Up,Aisle four!](https://goo.gl/0uPaCz)|Michael C. LaBossiere|適合新人玩|
