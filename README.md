@@ -60,6 +60,7 @@
 |[遺留的寶貝-現代](https://goo.gl/Bi6YZS)|-|-|
 |[醫院](https://goo.gl/5Zxms2)|佩佩|-|
 |[愛的孤兒-改版](https://goo.gl/omiD9B)|曉|-|
+|[愛的孤兒-原版](https://goo.gl/UdfXwZ)|-|-|
 |[血之詛咒](https://goo.gl/5uWR5Y)|Sam Shirly|Nikki|
 |[魔鏡怪談](https://goo.gl/XDTxkr)|迪恩·沙瑪什|牛克思大叔|
 |[粘液之跡](https://goo.gl/lVfzWG)|-|天殘無心|
@@ -67,19 +68,28 @@
 |[迷失世紀](https://goo.gl/iY1P5l)|Mike Mason|清水|
 |[SCP](https://goo.gl/rlFSC5)|蒼葉|-|
 |[蒂莫西舅舅的遺產](https://goo.gl/ny4418)|Keith Herber|Hello World|
-|[極北之光]()|-|-|
-|[來自星星的光芒]()|-|-|
-|[命運之母]()|-|-|
-|[鴿人]()|-|-|
-|[噩夢暑期]()|-|-|
-|[奉家山]()|||
-
+|[極北之光](https://goo.gl/Gbjy3v)|-|-|
+|[來自星星的光芒](https://goo.gl/5iVsnt)|-|-|
+|[命運之母](https://goo.gl/nKHL4a)|-|-|
+|[鴿人](https://goo.gl/4Jy0IE)|-|-|
+|[噩夢暑期](https://goo.gl/O5uaGF)|-|-|
+|[奉家山](https://goo.gl/sDpuLr)|長鋏|葉紫蟬|
+|[新英格蘭小鎮怪談](https://goo.gl/K521PY)|Dr Michael C. LaBossiere|A&S|
+|[帕帕尼爾酒館殺人事件](https://goo.gl/fzn7PE)|-|-|
+|[徹夜未眠](https://goo.gl/h3Q7Bd)|Tusheen|適合新人玩|
+|[星星的眨眼](https://goo.gl/0KYoSf)|立華|曉|
+|[書店](https://goo.gl/Aus6qP)|-|-|
+|[機械天啟](https://goo.gl/vgYiNR)|Tom Lynch|北落 栖雲|
+|[歸於塵埃](https://goo.gl/yT0g0m)|Kevin Ross|琳尼娜|
+|[死亡玫瑰](https://goo.gl/7e5nTM)|-|-|
+|[海中之城](https://goo.gl/BWrqdf)|G.W.Thomas,Lynn Willis|花宴聞鳥鳴
+|
 ##日系模組目錄[中] Japanese Theme Index##
 |模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
 |[谁是沼泽人](https://goo.gl/ZyeD5K)|ma34|葬式之钟|
 |[通過吧](https://goo.gl/3YJGBW)|O-kuma|饅頭|
-|[無盡食慾](https://goo.gl/pCcJgx)|内山靖二郎|艾德琳
+|[無盡食慾](https://goo.gl/pCcJgx)|内山靖二郎|艾德琳|
 |[神赦医院](https://goo.gl/V66H9l)|マリコロ(Cthulhu Scenario Okiba)|葬式之钟|
 |[浸染灰色的街道](https://goo.gl/1ZkvBk)|aak|青蛙君 [來源:クトゥルフ神話TRPGやろうず](https://goo.gl/bUpNR3)|
 |[某日，撿到了不詳的孩子](https://goo.gl/3UBPJK)|[鷹](https://goo.gl/N66FQA)|蒼葉|
@@ -108,15 +118,25 @@
 |[霧風](https://goo.gl/hCCesU)|深海八爪喵|-|
 |[何處是現實](https://goo.gl/0zT1fP)|朝雾カフカ|Zetetic|
 |[游戏脑](https://goo.gl/5yEg7K)|ヒスイ|-|
-|[廢棄洋館]()|-|-|
-|[死亡銘刻]()|內山靖二郎|艾德琳|
-|[詛咒之音]()|-|-|
-|[午夜吞食者]()|のざらし|-|
-|[只有你不在的世界]()|失戀的奈亞拉托提普|-|
-|[天神中學的人魚]()|Tachikoma|-|
+|[廢棄洋館](https://goo.gl/AYaGxW)|-|-|
+|[死亡銘刻](https://goo.gl/H5MrGR)|內山靖二郎|艾德琳|
+|[詛咒之音](https://goo.gl/uq7iwc)|-|-|
+|[午夜吞食者](https://goo.gl/Sxc0Zt)|のざらし|-|
+|[只有你不在的世界](https://goo.gl/YvuFhn)|失戀的奈亞拉托提普|-|
+|[天神中學的人魚](https://goo.gl/VMYxiR)|Tachikoma|-|
 |[卡裡普索島]()|黑江|青蛙君|
 |[奈亞的新娘]()|774|-|
 |[孤獨之櫻]()|marikoro_dayo|小春日和|
+|[學校階梯的怪談]()|あぁ無情|cyakihara|
+|[死亡電車]()|ごんずい|見晴|
+|[星落之夜龍哮]()|-|dayday|
+|[暗鍋派對]()|小池|-|
+|[有什麼東西在這裡]()|內山靖二郎|-|
+|[召喚黑暗的梅洛蒂]()|內山靖二郎|艾德琳|
+|[機關人偶之塔]()|Kanin|見晴|
+|[殘骸]()|キャラメル|-|
+|[狩猎蛇鲨的夜晚]()|ともかずきん|青蛙君|
+|[禁忌之海]()|林潭玉|艾德琳|
 
 ##日文模組目錄 Japanese Advendutre Index
 |模組名稱 |原作|翻譯/改編/特別注意|
