@@ -98,7 +98,7 @@
 |[詛咒之城]()|-|-|
 |[琴房]()|-|-|
 |[瘋狂的藝術]()|-|-|
-|[百門]()|||
+|[百門]()|-|-|
 |[最後的悼詞]()|-|-|
 |[瘦傑克]()|-|-|
 |[科學結社]()|-|-|
@@ -115,7 +115,7 @@
 |[谁是沼泽人](https://goo.gl/ZyeD5K)|ma34|葬式之钟|
 |[通過吧](https://goo.gl/3YJGBW)|O-kuma|饅頭|
 |[無盡食慾](https://goo.gl/pCcJgx)|内山靖二郎|艾德琳|
-|[神赦医院](https://goo.gl/V66H9l)|マリコロ(Cthulhu Scenario Okiba)|葬式之钟|
+|[神赦医院](https://goo.gl/V66H9l)|マリコロ|葬式之钟|
 |[浸染灰色的街道](https://goo.gl/1ZkvBk)|aak|青蛙君 [來源:クトゥルフ神話TRPGやろうず](https://goo.gl/bUpNR3)|
 |[某日，撿到了不詳的孩子](https://goo.gl/3UBPJK)|[鷹](https://goo.gl/N66FQA)|蒼葉|
 |[告別終曲](https://goo.gl/vTvpso)|[海からのシ者](https://goo.gl/VqkVZ8)|蒼葉，白鸟栞|
@@ -171,16 +171,16 @@
 |[迷霧之森](https://goo.gl/pBUoxo)|-|-|
 |[送神之日](https://goo.gl/qJio7C)|-|-|
 |[雨中溶解](https://goo.gl/wSBWwe)|失戀的奈亞拉托提普|-|
-|[雪山密室](https://goo.gl/8zLTQ2)|禦原(@mihara_wiz)|南|
+|[雪山密室](https://goo.gl/8zLTQ2)|禦原|南|
 |[静谧的骚灵](https://goo.gl/JIJ3fV)|ヒスイ||
 |[鬼笑](https://goo.gl/StJJiI)|-|布丁公主魔理沙|
 |[❀獻與冬薔薇❀](https://goo.gl/g54oJO)|あずま|-|
 |[獻給虞美人般的你](https://goo.gl/57Zcmu)|日吉秀介|Sameck|
 |[町家の記憶](https://goo.gl/CZbsn9)|海月水母|じん|
 |[畜牲美少女](https://goo.gl/Lxvolm)|-|-|
-|[惡德之館]()|あじた＠kijinekokko|:蜉蝣、@Baby♂Metal|
+|[惡德之館]()|あじた|:蜉蝣|
 |[川見澤之謎]()|-|-|
-|[花鳥風月]()||-|
+|[花鳥風月]()|-|-|
 |[Beggars’ Banquet]()|-|-|
 
 ##日文模組目錄 Japanese Advendutre Index##
