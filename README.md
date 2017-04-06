@@ -1,7 +1,9 @@
 ##克苏鲁的呼唤(Call of Cthulhu)##
+
 以下所收錄的模組都是版權所有，歡迎COC愛好者用來玩遊戲。另外部分模組為原創模組，未經作者同意，任何人都不得將其用於商業用途，否則該原作者將保留法律追究的權利。有一些還沒找到作者的會在以後補上^-^
 
 ##中文/漢化模組目錄Index##
+
 |模組名稱|原作|翻譯/改編/特別注意|
 |---|---|---|
 |[黑暗洞窟](https://goo.gl/GIdvP1)|Marian|-|
@@ -113,6 +115,7 @@
 |[女裝大學]()|-|-|
 
 ##日系模組目錄[中] Japanese Theme Index##
+
 |模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
 |[谁是沼泽人](https://goo.gl/ZyeD5K)|ma34|葬式之钟|
@@ -187,6 +190,7 @@
 |[Beggars’ Banquet]()|-|-|
 
 ##日文模組目錄 Japanese Advendutre Index##
+
 |模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
 |[次元トンネル(City版)](https://goo.gl/ChXovS)|PandA|-|
@@ -194,6 +198,7 @@
 |[Lucky Color](https://goo.gl/3pS495)|あにー|-|
 
 ##英文模組目錄 English Adventure Index##
+
 |模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
 |[Clean Up,Aisle four!](https://goo.gl/0uPaCz)|Michael C. LaBossiere|適合新人玩|
