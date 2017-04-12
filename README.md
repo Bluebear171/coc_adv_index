@@ -5,7 +5,11 @@
 ## 中文/漢化模組目錄Index
 |模組名稱|原作|翻譯/改編/特別注意|
 |---|---|---|
+|[恐怖的東方特快列車之旅](https://goo.gl/NnpU5W)|Geoff Gillan|-|
+|[黑暗邊緣](https://goo.gl/y0TXgr)|苹果梦|-|
+|[黑幕之牙系列](https://goo.gl/Mp49vx)|阎麟|-|
 |[黑暗洞窟](https://goo.gl/GIdvP1)|Marian|-|
+|[黑色行動](https://goo.gl/9xizhW)|利劍破空|-|
 |[一夢千年](https://goo.gl/v3QyTc)|Sunnylht|Zetetic|
 |[我的朋友很少](  https://goo.gl/59dnck)|栖雁|-|
 |[憂鬱詭屋](https://goo.gl/qG6PtC)|瑪莉安|-| 
@@ -28,7 +32,6 @@
 |[召喚之災](https://goo.gl/8oVCQ2)|四界咒滅|-|
 |[遠古之卵](https://goo.gl/kLBcsB)|章鱼|-|
 |[吸血森林](https://goo.gl/RUPTeU)|瑪莉安|-|
-|[黑色行動](https://goo.gl/9xizhW)|利劍破空|-|
 |[贊拉基的複蘇](https://goo.gl/LI51FQ)|Micheal Wood|常樂|
 |[倫敦風雲](https://goo.gl/GOLNSE)|子非狐_L|-|
 |[不要看Don't Watch](https://goo.gl/qUS80L)|邪教主★啊夜Saya|純蘋果有Google Drive DL Link|
@@ -83,32 +86,29 @@
 |[歸於塵埃](https://goo.gl/yT0g0m)|Kevin Ross|琳尼娜|
 |[死亡玫瑰](https://goo.gl/7e5nTM)|-|-|
 |[海中之城](https://goo.gl/BWrqdf)|G.W.Thomas,Lynn Willis|花宴聞鳥鳴|
-|[黑暗邊緣](https://goo.gl/y0TXgr)|苹果梦|-|
-|[恐怖的東方特快列車之旅](https://goo.gl/NnpU5W)|Geoff Gillan|-|
-|[黑幕之牙系列](https://goo.gl/Mp49vx)|阎麟|-|
 |[凝視深淵，深淵將報以回視](https://goo.gl/k8g8Ka)|舌尖|-|
 |[鹹魚之藍](https://goo.gl/ABTDBM)|千羽|-|
 |[方舟](https://goo.gl/9K2q2u)|Sunnylht|-|
 |[避難所](https://goo.gl/AKvKEf)|Michael Patty|山貓|
-|[魔女之夢]()|-|-|
-|[電極]()|-|-|
-|[靈魂旅者]()|-|-|
-|[癲狂之門]()|-|-|
-|[驚懼墜落]()|-|-|
-|[鬼屋]()|-|-|
-|[詛咒之城]()|-|-|
-|[琴房]()|-|-|
-|[瘋狂的藝術]()|-|-|
-|[百門]()|-|-|
-|[最後的悼詞]()|-|-|
-|[瘦傑克]()|-|-|
-|[科學結社]()|-|-|
-|[科比特先生]()|-|-|
-|[給藍色的你]()|-|-|
-|[致命的遺留物]()|-|-|
-|[最深的夢境]()|-|-|
-|[萬聖節的到來]()|-|-|
-|[女裝大學]()|-|-|
+|[魔女之夢](https://goo.gl/bwNRMr)|-|-|
+|[電極](https://goo.gl/ykL95j)|-|-|
+|[靈魂旅者](https://goo.gl/N8VSd1)|-|-|
+|[癲狂之門](https://goo.gl/mtyjVL)|-|老牛|
+|[驚懼墜落](https://goo.gl/5aKf5Y)|史蒂芬·哈斯雷|水果|
+|[鬼屋](https://goo.gl/zkXUIi)|-|血多|
+|[詛咒之城](https://goo.gl/sEUCAq)|Davide Mana|琳尼娜|
+|[琴房](https://goo.gl/Nof85X)|白狐|-|
+|[瘋狂的藝術](https://goo.gl/itCNMC)|Terry White|康仔|
+|[百門](https://goo.gl/CFBgUq)|-|-|
+|[最後的悼詞](https://goo.gl/UpGXux)|-|-|
+|[瘦傑克](https://goo.gl/3n6UTF)|Dr Michael C. LaBossiere|桐&水|
+|[科學結社](https://goo.gl/bdd3hJ)|-|-|
+|[科比特先生](https://goo.gl/Oi2YRj)|Michael Dewolfe|秦鄴|
+|[給藍色的你](https://goo.gl/GZkMVb)|おみかん|曉|
+|[致命的遺留物](https://goo.gl/xUGFgl)|-|-|
+|[最深的夢境](https://goo.gl/wle304)|-|-|
+|[萬聖節的到來](https://goo.gl/OK9B0Z)|-|-|
+
 
 ## 日系模組目錄[中] Japanese Theme Index
 |模組名稱 |原作|翻譯/改編/特別注意|
@@ -166,7 +166,7 @@
 |[花開](https://goo.gl/rfxJwe)|t-sr|柚子|
 |[薔薇之館](https://goo.gl/uWo1vm)|t-sr|アーサー|
 |[蠢動](https://goo.gl/YcKRiq)|食堂主義|-|
-|[被忘卻的朱麗葉](https://goo.gl/5bceK0)|あずま|布丁公主魔理|
+|[被忘卻的朱麗葉](https://goo.gl/5bceK0)|あずま|布丁公主魔理沙|
 |[觀察者](https://goo.gl/myxjY3)|-|-|
 |[請上床睡覺](https://goo.gl/dGwoq6)|NOA|曉|
 |[迷霧之森](https://goo.gl/pBUoxo)|-|-|
@@ -179,10 +179,6 @@
 |[獻給虞美人般的你](https://goo.gl/57Zcmu)|日吉秀介|Sameck|
 |[町家の記憶](https://goo.gl/CZbsn9)|海月水母|じん|
 |[畜牲美少女](https://goo.gl/Lxvolm)|-|-|
-|[惡德之館]()|あじた|:蜉蝣|
-|[川見澤之謎]()|-|-|
-|[花鳥風月]()|-|-|
-|[Beggars’ Banquet]()|-|-|
 
 ## 日文模組目錄 Japanese Advendutre Index
 |模組名稱 |原作|翻譯/改編/特別注意|
