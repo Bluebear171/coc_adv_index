@@ -11,7 +11,7 @@
 |[黑暗洞窟](https://goo.gl/GIdvP1)|Marian|-|
 |[黑色行動](https://goo.gl/9xizhW)|利劍破空|-|
 |[一夢千年](https://goo.gl/v3QyTc)|Sunnylht|Zetetic|
-|[我的朋友很少](  https://goo.gl/59dnck)|栖雁|-|
+|[我的朋友很少](https://goo.gl/59dnck)|栖雁|-|
 |[憂鬱詭屋](https://goo.gl/qG6PtC)|瑪莉安|-| 
 |[午夜的士](https://goo.gl/u1Z4wO)|羽翼|-|
 |[北風之館](https://goo.gl/U6rxMm)|Sakon.N|-|
@@ -22,7 +22,6 @@
 |[海明威偵探社2-樹之影](https://goo.gl/4Bc7bn)|Jonathan Stout|-|
 |[海明威偵探社3-噩夢之石](https://goo.gl/r0oiaa)|Jonathan Stout|-|
 |[化石](https://goo.gl/lMd5Qp)|The Chaosium|-|
-|[黃衣之王](https://goo.gl/s4OiIH)|Kevin A.Ross|Clare|
 |[機械之王](https://goo.gl/E3nuuv)|Geoff Gaillan & Dean Engelhardt|阿尔克赛尔罗斯|
 |[人間樂土](https://goo.gl/vn9DAw)|Lucya Szachnowski and Gary O's Connell|琳尼娜|
 |[褴褛王](https://goo.gl/8BL2hF)|Hustin Hynes|琳尼娜|
@@ -66,6 +65,7 @@
 |[愛的孤兒-原版](https://goo.gl/UdfXwZ)|-|-|
 |[血之詛咒](https://goo.gl/5uWR5Y)|Sam Shirly|Nikki|
 |[魔鏡怪談](https://goo.gl/XDTxkr)|迪恩·沙瑪什|牛克思大叔|
+|[魔女之夢](https://goo.gl/bwNRMr)|-|-|
 |[粘液之跡](https://goo.gl/lVfzWG)|-|天殘無心|
 |[死光](https://goo.gl/QVz994)|-|-|
 |[迷失世紀](https://goo.gl/iY1P5l)|Mike Mason|清水|
@@ -90,7 +90,6 @@
 |[鹹魚之藍](https://goo.gl/ABTDBM)|千羽|-|
 |[方舟](https://goo.gl/9K2q2u)|Sunnylht|-|
 |[避難所](https://goo.gl/AKvKEf)|Michael Patty|山貓|
-|[魔女之夢](https://goo.gl/bwNRMr)|-|-|
 |[電極](https://goo.gl/ykL95j)|-|-|
 |[靈魂旅者](https://goo.gl/N8VSd1)|-|-|
 |[癲狂之門](https://goo.gl/mtyjVL)|-|老牛|
@@ -108,7 +107,50 @@
 |[致命的遺留物](https://goo.gl/xUGFgl)|-|-|
 |[最深的夢境](https://goo.gl/wle304)|-|-|
 |[萬聖節的到來](https://goo.gl/OK9B0Z)|-|-|
-
+|[針刺異夢](https://goo.gl/YgKwf1)|深海八爪喵|-|
+|[城市毒氣洩漏事件](https://goo.gl/yv5svX)|-|-|
+|[voice-7631-86-9](https://goo.gl/OAMdAN)|ふらいごん|-|
+|[以赛亚之约-SH系列](https://goo.gl/Ss8GqZ)|Whitewood|-|
+|[孤注一擲](https://goo.gl/Y6OgpF)|DD|-|
+|[Silent Hill](https://goo.gl/RL1xTt)|-|-|
+|[豹狼之夜](https://goo.gl/g4g9kq)|奖励品|--|
+|[死都魔影](https://goo.gl/NBBA6q)|-|-|
+|[捷運](https://goo.gl/GHb46Y)|bakeyou_cookies|Asahi|
+|[周而复始](https://goo.gl/GESbRf)|Brian M.Sammons|埃兰迪斯|
+|[舊日支配者系列1之孳生](https://goo.gl/5phqD6)|Harry Cleaver|-|
+|[舊日支配者系列2之靜止之水](https://goo.gl/TMxn5b)|L. N. Isynwill and Doug Lyons|-|
+|[舊日支配者系列3之黃衣之王](https://goo.gl/s4OiIH))|Kevin A. Ross|Clare|
+|[舊日支配者系列4之暗中來客](https://goo.gl/PcaITw)|Doug Lyons with L.N. Isynwill|-|
+|[舊日支配者系列5之蒼白之神](https://goo.gl/0ij07s)|Kevin A. Ross|-|
+|[舊日支配者系列6之惡月當空](https://goo.gl/lKSvmU)|Marcus L. Rowland||
+|[廢船](https://goo.gl/TRTDzI)|Sandy Petersen|牛克思大叔|
+|[遊輪](https://goo.gl/i5pZYB)|-|-|
+|[毒湯](https://goo.gl/sK86k4)|-|-|
+|[捍衛理智的瘋狂冒險](https://goo.gl/rGXwq1)|-|狐狸姊姊|
+|[賽戲](https://goo.gl/ngnl8h)|Thom Ryng|破曉十二弦,amp,Karldark|
+|[推理遊戲](https://goo.gl/NrLo4b)|夏天|-|
+|[谶言](https://goo.gl/SanJWc))|||
+|[沉默的群山](https://goo.gl/0HZiwG)|構思：琳尼娜|-|
+|[白箱](https://goo.gl/krb9au)|舌尖|-|
+|[偶像爆破](https://goo.gl/8sa7IB)|-|-|
+|[LeMU](https://goo.gl/QPXYyB)|-|-|
+|[迷霧妄橋](https://goo.gl/hs5DFo)|-|-|
+|[寂靜嶺](https://goo.gl/ey8luU)|-|-|
+|[深山之館](https://goo.gl/EewWEf)|半傷不破|-|
+|[真人快打](https://goo.gl/WOYXgU)|-|-|
+|[盒子內](https://goo.gl/HwEqVR)|SORA|-|
+|[燒焦的人](https://goo.gl/RyrMDV)|-|獎勵品|
+|[湖邊小屋](https://goo.gl/HLUc6y)|33|-|
+|[為什麼是小學老師](https://goo.gl/xNdo1x)|daydayday|-|
+|[殘缺之人](https://goo.gl/LpUv55)|-|-|
+|[循環](https://goo.gl/Q8sPFT)|姓節名操|-|
+|[奶奶的玩具箱](https://goo.gl/92tzNw)|-|-|
+|[誰是兇手](https://goo.gl/Cd8LwT)|鬼哪裡有影子|-|
+|[銀白的殘存者](https://goo.gl/cGCYmM)|DD|[出處](https://www.plurk.com/edo04251117)|
+|[鏡子](https://goo.gl/3Hrzox)|asf159456(巴哈)|-|
+|[試煉之鏡](https://goo.gl/brMXF4)|古月|-|
+|[盧](https://goo.gl/Fipmx7)|马鹿七|-|
+|[美術館](https://goo.gl/YDrs5q)|阿鍋|-|
 
 ## 日系模組目錄[中] Japanese Theme Index
 |模組名稱 |原作|翻譯/改編/特別注意|
@@ -179,6 +221,39 @@
 |[獻給虞美人般的你](https://goo.gl/57Zcmu)|日吉秀介|Sameck|
 |[町家の記憶](https://goo.gl/CZbsn9)|海月水母|じん|
 |[畜牲美少女](https://goo.gl/Lxvolm)|-|-|
+|[我應該相信誰](https://goo.gl/BbJ88V)|Sameck|-|
+|[SCP: Wonwon](https://goo.gl/gPAUKz)|ym|南|
+|[SCP: 不速之客](https://goo.gl/ufuI06)|ym|南|
+|[海沫葬歌](https://goo.gl/L5UPNB)|團子|-|
+|[战栗的自助餐厅](https://goo.gl/CFr1AV)|イラル|堂上守|
+|[深林之館](https://goo.gl/LrQAk4)|守山エイ|蒼葉|
+|[聖夜贊歌](https://goo.gl/XlaqXS)|えるさん|蒼葉|
+|[味道如何](https://goo.gl/1k3Bnn)|なつ|-|
+|[提線木偶](https://goo.gl/SEuulK)|まお|蒼葉|
+|[惡德之館](https://goo.gl/7I621r)|あじた|蜉蝣|
+|[I.C.D](https://goo.gl/N1Nxjk)|-|-|
+|[桔梗館的某夜](https://goo.gl/aV2PhH)|作者:シヴァ・クォーター|yuuichi yao|
+|[受飛倉森之邀](https://goo.gl/4LKarJ)|ともかずきん|青蛙君|
+|[我是那傢伙，那傢伙的孩子](https://goo.gl/YeMnTV)|ともかずきん|青蛙君|
+|[小籠包](https://goo.gl/XdRfJY)|ニーナ|-|
+|[貓的報恩](https://goo.gl/nD4VkH)|栖雁|-|
+|[food fight](https://goo.gl/Fpl7mm)|愛餡|曉|
+|[然後什麼也不剩了](https://goo.gl/UlvhuV)|norabbit|曉|
+|[豐收神社](https://goo.gl/HKLsAU)|なうあー|daydayday|
+|[電子的友人](https://goo.gl/BPX2u6)|パンダ＝ヒロ|daydayday|
+|[墜落之後](https://goo.gl/QJ7Dtx)|-|哥基|
+|[消散於黎明的回憶](https://goo.gl/zmQmNL)|パンダ＝ヒロ|daydayday|
+|[裂口女](https://goo.gl/BssSP5)|-|daydayday|
+|[獵頭對頭的霎那](https://goo.gl/sbKvPj)|パンダ＝ヒロ|daydayday|
+|[重複之夢](https://goo.gl/68Bwff)|ぱちょ|daydayday|
+|[空殼](https://goo.gl/5fYqgV)|T-sr|daydayday|
+|[美食總動員](https://goo.gl/7fUzUk)|カラントウ|daydayday|
+|[柳生八劍傳](https://goo.gl/3JhYSY)|マリコロ|daydayday|
+|[消散於黎明的回憶](https://goo.gl/Rmb1Dp)|パンダ＝ヒロ|daydayday|
+|[杉山山屋敷怪異談](https://goo.gl/KkM2JB)|內山靖二郎|じん|
+|[在行星中的火車中相遇吧](https://goo.gl/KMm1jQ)|99式臼井|じん|
+|[水没電車](https://goo.gl/qQSAzY)|ぽんた/ひいら|じん|
+|[Red Eater](https://goo.gl/We4t3w)|Tokei|-|
 
 ## 日文模組目錄 Japanese Advendutre Index
 |模組名稱 |原作|翻譯/改編/特別注意|
@@ -186,6 +261,30 @@
 |[次元トンネル(City版)](https://goo.gl/ChXovS)|PandA|-|
 |[親愛する錬金術師](https://goo.gl/h6trKQ)|雷柱|-|
 |[Lucky Color](https://goo.gl/3pS495)|あにー|-|
+|[愚者が求めし]|||
+|[おろか]||||
+|[埒外の世界]|||
+|[μ(ミュー)は積み木で密室をつくる]|||
+|[γ(ガンマ)の夢で忘れさせて]|||
+|[一万年の光]|||
+|[安全な棺]|||
+|[風変わりな旅行]|||
+|[影蔵家の家宝]|||
+|[赤い女]|||
+|[彼方からの悪意]|||
+|[北へと向かう馬車]|||
+|[金色の宝物]|||
+|[Blade of Arcana]|||
+|[Femme fatale]|||
+|[fools]|||
+|[あかがねカクテル]|||
+|[エリー]|||
+|[サムライ・ロックを饮みながら]|||
+|[ひまつぶし卓シナリオ集 EP 5逃亡]()||超級好玩^-^|
+|[二羽目の鳥が啼いたなら]|||
+|[占いの館](https://goo.gl/pFzUze)|||z
+|[その眼に映る地獄](https://goo.gl/OV7RSO)|Kal-Kan|-|
+
 
 ## 英文模組目錄 English Adventure Index
 |模組名稱 |原作|翻譯/改編/特別注意|
