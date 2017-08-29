@@ -117,11 +117,11 @@
 |[死都魔影](https://goo.gl/NBBA6q)|-|-|
 |[捷運](https://goo.gl/GHb46Y)|bakeyou_cookies|Asahi|
 |[周而复始](https://goo.gl/GESbRf)|Brian M.Sammons|埃兰迪斯|
-|[舊日支配者系列1之孳生](https://goo.gl/5phqD6)|Harry Cleaver|-|
+|[舊日支配者系列1之孳生](https://goo.gl/sMLFvL)|Harry Cleaver|-|
 |[舊日支配者系列2之靜止之水](https://goo.gl/TMxn5b)|L. N. Isynwill and Doug Lyons|-|
-|[舊日支配者系列3之黃衣之王](https://goo.gl/s4OiIH))|Kevin A. Ross|Clare|
-|[舊日支配者系列4之暗中來客](https://goo.gl/PcaITw)|Doug Lyons with L.N. Isynwill|-|
-|[舊日支配者系列5之蒼白之神](https://goo.gl/0ij07s)|Kevin A. Ross|-|
+|[舊日支配者系列3之黃衣之王](https://goo.gl/BsnMur)|Kevin A. Ross|Clare|
+|[舊日支配者系列4之暗中來客](https://goo.gl/mPPG64)|Doug Lyons with L.N. Isynwill|-|
+|[舊日支配者系列5之蒼白之神](https://goo.gl/6jVRiV)|Kevin A. Ross|-|
 |[舊日支配者系列6之惡月當空](https://goo.gl/lKSvmU)|Marcus L. Rowland||
 |[廢船](https://goo.gl/TRTDzI)|Sandy Petersen|牛克思大叔|
 |[遊輪](https://goo.gl/i5pZYB)|-|-|
@@ -129,7 +129,7 @@
 |[捍衛理智的瘋狂冒險](https://goo.gl/rGXwq1)|-|狐狸姊姊|
 |[賽戲](https://goo.gl/ngnl8h)|Thom Ryng|破曉十二弦,amp,Karldark|
 |[推理遊戲](https://goo.gl/NrLo4b)|夏天|-|
-|[谶言](https://goo.gl/SanJWc))|||
+|[谶言](https://goo.gl/SanJWc)|||
 |[沉默的群山](https://goo.gl/0HZiwG)|構思：琳尼娜|-|
 |[白箱](https://goo.gl/krb9au)|舌尖|-|
 |[偶像爆破](https://goo.gl/8sa7IB)|-|-|
@@ -151,6 +151,19 @@
 |[試煉之鏡](https://goo.gl/brMXF4)|古月|-|
 |[盧](https://goo.gl/Fipmx7)|马鹿七|-|
 |[美術館](https://goo.gl/YDrs5q)|阿鍋|-|
+|[西部往事](https://goo.gl/6Qasga)|執迷頓|-|
+|[卡森德拉嘉年華](https://goo.gl/tAZnnE)|-|-|
+|[陰陽先生](https://goo.gl/tbyA7A)|白米飯|-|
+|[逃離瘋人院](https://goo.gl/mjWHwG)|-|-|
+|[萬蟲之毒](https://goo.gl/TXP3pG)|ONI阿鬼|-|
+|[孤獨者難成大智](https://goo.gl/RYsJPB)|John Tynes|-|
+|[兔園](https://goo.gl/Yxyn4i)|-|-|
+|[有些油鹽不進](https://goo.gl/BPt2bC)|Paul Fricker|fallout3|
+|[猩紅之館](https://goo.gl/e5d2Po)|-|-|
+|[自深淵處](https://goo.gl/if9tPg)|Michael C|Cadmium|
+|[Trick or Treat](https://goo.gl/jpRRYc)|斯科特·阿諾洛斯基|DayDayDay|
+|[井](https://goo.gl/nj5fCY)|Michael|daydayday|
+|[兔園](https://goo.gl/UTtQc4)|-|-|
 
 ## 日系模組目錄[中] Japanese Theme Index
 |模組名稱 |原作|翻譯/改編/特別注意|
@@ -254,6 +267,8 @@
 |[在行星中的火車中相遇吧](https://goo.gl/KMm1jQ)|99式臼井|じん|
 |[水没電車](https://goo.gl/qQSAzY)|ぽんた/ひいら|じん|
 |[Red Eater](https://goo.gl/We4t3w)|Tokei|-|
+|[純白的代行者](https://goo.gl/iiQ1Bn)|青蛙君|-|
+|[等你醒](https://goo.gl/dmjcYG)|あさい|A4紙|
 
 ## 日文模組目錄 Japanese Advendutre Index
 |模組名稱 |原作|翻譯/改編/特別注意|
