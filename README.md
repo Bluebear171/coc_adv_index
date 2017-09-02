@@ -1,6 +1,6 @@
 ## 克苏鲁的呼唤(Call of Cthulhu)
 
-以下所收錄的模組都是版權所有，歡迎COC愛好者用來玩遊戲。另外部分模組為原創模組，未經作者同意，任何人都不得將其用於商業用途，否則該原作者將保留法律追究的權利。有一些還沒找到作者的會在以後補上^-^
+以下所收錄的模組都是版權所有，歡迎COC愛好者用來玩遊戲。另外部分模組為原創模組，未經作者同意，任何人都不得將其用於商業用途，否則該原作者將保留法律追究的權利。有一些還沒找到作者的會在以後補上^-^.特別感謝HKTRPG的Z大提供了大部分的模組。
 
 ## 中文/漢化模組目錄Index
 |模組名稱|原作|翻譯/改編/特別注意|
@@ -164,6 +164,10 @@
 |[Trick or Treat](https://goo.gl/jpRRYc)|斯科特·阿諾洛斯基|DayDayDay|
 |[井](https://goo.gl/nj5fCY)|Michael|daydayday|
 |[兔園](https://goo.gl/UTtQc4)|-|-|
+|[留地不留頭](https://goo.gl/QeY4KY)|Eckhard Huelshoff|Elandias|
+|[陰陽先生]()|||
+|[降C大調協奏曲]|||
+|[鏡]|||
 
 ## 日系模組目錄[中] Japanese Theme Index
 |模組名稱 |原作|翻譯/改編/特別注意|
@@ -300,9 +304,17 @@
 |[占いの館](https://goo.gl/pFzUze)|||z
 |[その眼に映る地獄](https://goo.gl/OV7RSO)|Kal-Kan|-|
 
-
 ## 英文模組目錄 English Adventure Index
 |模組名稱 |原作|翻譯/改編/特別注意|
 |---|---|---|
 |[Clean Up,Aisle four!](https://goo.gl/0uPaCz)|Michael C. LaBossiere|適合新人玩|
 |[The Cursed](https://goo.gl/ziJF6i)|Tony Hickie|-|
+
+### 其他網站
+- [香港TRPG研究社](https://www.facebook.com/groups/HKTRPG)  
+- [香港面團專區](http://www.goddessfantasy.net/bbs/index.php?board=1400.0)
+- [TRPG百科](https://www.hktrpg.com/)
+- [COC自動角色卡7版](https://goo.gl/j8gowg)
+- [COC自動角色卡6版](https://goo.gl/BPu2BK)
+- [TRPG神聖計劃](https://goo.gl/eTEpm6)
+- [克蘇魯資源](trpgrss.weebly.com/coc)
