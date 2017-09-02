@@ -317,4 +317,4 @@
 - [COC自動角色卡7版](https://goo.gl/j8gowg)
 - [COC自動角色卡6版](https://goo.gl/BPu2BK)
 - [TRPG神聖計劃](https://goo.gl/eTEpm6)
-- [克蘇魯資源](trpgrss.weebly.com/coc)
+- [克蘇魯資源](http://trpgrss.weebly.com/coc.html)
