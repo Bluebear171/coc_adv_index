@@ -311,7 +311,7 @@
 |[The Cursed](https://goo.gl/ziJF6i)|Tony Hickie|-|
 
 ### 其他網站
-- [破碎的失落空間](http://seesaawiki.jp/forgetlostspace/)
+- [破碎的失落空間資源](http://seesaawiki.jp/forgetlostspace/)
 - [香港TRPG研究社](https://www.facebook.com/groups/HKTRPG)  
 - [香港面團專區](http://www.goddessfantasy.net/bbs/index.php?board=1400.0)
 - [TRPG百科](https://www.hktrpg.com/)
