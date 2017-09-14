@@ -12,7 +12,7 @@
 |[黑色行動](https://goo.gl/9xizhW)|利劍破空|-|
 |[一夢千年](https://goo.gl/v3QyTc)|Sunnylht|Zetetic|
 |[我的朋友很少](https://goo.gl/59dnck)|栖雁|-|
-|[憂鬱詭屋](https://goo.gl/qG6PtC)|瑪莉安|-| 
+|[憂鬱詭屋](https://goo.gl/qG6PtC)|瑪莉安|-|
 |[午夜的士](https://goo.gl/u1Z4wO)|羽翼|-|
 |[北風之館](https://goo.gl/U6rxMm)|Sakon.N|-|
 |[塞拉斯的书](https://goo.gl/uc6CuN)|Mervyn Boyd|Redsep|
@@ -50,7 +50,7 @@
 |[詛咒](https://goo.gl/RTZFz0)|Tony Hickie|-|
 |[23號休息站 alternity](https://goo.gl/3ymeGe)|-|-|
 |[今天的電梯](https://goo.gl/c4yYsH)|-|-|
-|[冰冷的收穫](https://goo.gl/RG2j4d)|Chad J. Bowse|琳尼娜| 
+|[冰冷的收穫](https://goo.gl/RG2j4d)|Chad J. Bowse|琳尼娜|
 |[兇宅](https://goo.gl/ZWJlm0)|-|-|
 |[請問你有聽過安利嗎](https://goo.gl/BJ1qJm)|悠子|-|
 |[複足](https://goo.gl/89Xh0J)|Jim Phillips|DB|
@@ -199,7 +199,7 @@
 |[誰是說謊者](https://goo.gl/vmjp55)|ミヤモリ|曉|
 |[鐵道盡頭](https://goo.gl/AkNY78)|ホリ|牛奶醬油|
 |[心軋之時](https://goo.gl/Gx7lBR)|優希|牛奶醬油|
-|[古鐘所繫之物](https://goo.gl/gibNZn)|ぷぷぷ|牛奶醬油| 
+|[古鐘所繫之物](https://goo.gl/gibNZn)|ぷぷぷ|牛奶醬油|
 |[霧風](https://goo.gl/hCCesU)|深海八爪喵|-|
 |[何處是現實](https://goo.gl/0zT1fP)|朝雾カフカ|Zetetic|
 |[游戏脑](https://goo.gl/5yEg7K)|ヒスイ|-|
@@ -311,6 +311,7 @@
 |[The Cursed](https://goo.gl/ziJF6i)|Tony Hickie|-|
 
 ### 其他網站
+- [破碎的失落空間](http://seesaawiki.jp/forgetlostspace/)
 - [香港TRPG研究社](https://www.facebook.com/groups/HKTRPG)  
 - [香港面團專區](http://www.goddessfantasy.net/bbs/index.php?board=1400.0)
 - [TRPG百科](https://www.hktrpg.com/)
