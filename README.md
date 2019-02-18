@@ -311,11 +311,11 @@
 |[The Cursed](https://goo.gl/ziJF6i)|Tony Hickie|-|
 
 ### 其他網站
-- [破碎的失落空間資源](http://seesaawiki.jp/forgetlostspace/)
+- [破碎的失落空間資源](http://festyy.com/wBE05U)
 - [香港TRPG研究社](https://www.facebook.com/groups/HKTRPG)  
 - [香港面團專區](http://www.goddessfantasy.net/bbs/index.php?board=1400.0)
 - [TRPG百科](https://www.hktrpg.com/)
-- [COC自動角色卡7版](https://goo.gl/j8gowg)
-- [COC自動角色卡6版](https://goo.gl/BPu2BK)
+- [COC自動角色卡7版](http://festyy.com/wBWkCQ)
+- [COC自動角色卡6版](http://festyy.com/wBWkV3)
 - [TRPG神聖計劃](https://goo.gl/eTEpm6)
-- [克蘇魯資源](http://trpgrss.weebly.com/coc.html)
+- [克蘇魯資源](http://festyy.com/wBE072)
